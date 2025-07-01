@@ -1,0 +1,14 @@
+# Ignore virtual environment
+plantenv/
+.venv/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore secrets
+.streamlit/secrets.toml
