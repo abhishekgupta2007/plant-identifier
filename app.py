@@ -12,7 +12,7 @@ st.set_page_config(
 st.markdown("<h1 style='text-align: center; color: green;'>🌱 Identify Any Plant Instantly</h1>", unsafe_allow_html=True)
 
 # Plant.id API key
-API_KEY = st.secrets["api"]["]()_
+API_KEY = st.secrets["api"]["plant_id_key"]
 
 # Google Lens Style Options
 st.markdown("### How would you like to scan the leaf?")
