@@ -1,4 +1,4 @@
-# 🌿 Abhishek Plant Identifier
+# Plant Identifier by Abhishek 🌿
 
 A simple and elegant web app built using **Streamlit** that identifies plants from leaf images using the **Plant.id API**. Just upload a leaf photo or click from your camera — and get the plant's name, confidence level, and Wikipedia description.
 
