@@ -6,11 +6,11 @@ A simple and elegant web app built using **Streamlit** that identifies plants fr
 
 ## 🔍 Features
 
-- 📸 Upload image or click photo using camera
-- 🤖 Identifies plant using machine learning via Plant.id API
-- 🌐 Shows scientific name, common names, and Wikipedia info
-- 🇮🇳 Supports common Indian plant names (if available)
-- 📱 Fully responsive design (mobile-friendly)
+- Upload image or click photo using camera
+- Identifies plant using machine learning via Plant.id API
+- Shows scientific name, common names, and Wikipedia info
+- Supports common Indian plant names (if available)
+- Fully responsive design (mobile-friendly)
 
 ---
 
